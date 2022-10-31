@@ -29,34 +29,34 @@ export default function Speaking() {
   return (
     <>
       <Head>
-        <title>Speaking - Spencer Sharp</title>
+        <title>Certifications - Mo Amin</title>
         <meta
           name="description"
-          content="I’ve spoken at events all around the world and been interviewed for many podcasts."
+          content="Certifications I've obtained in my SWE journey"
         />
       </Head>
       <SimpleLayout
-        title="I’ve spoken at events all around the world and been interviewed for many podcasts."
-        intro="One of my favorite ways to share my ideas is live on stage, where there’s so much more communication bandwidth than there is in writing, and I love podcast interviews because they give me the opportunity to answer questions instead of just present my opinions."
+        title="Certifications I've obtained in my SWE journey"
+        intro="In the ever-changing world of software, I find it important to stay up to date with the latest technologies and tools available in the realm of development. Below is my working list of certifications geared towards the cloud."
       >
         <div className="space-y-20">
-          <SpeakingSection title="Conferences">
+          <SpeakingSection title="Amazon Web Services">
             <Appearance
-              href="#"
-              title="In space, no one can watch you stream — until now"
-              description="A technical deep-dive into HelioStream, the real-time streaming library I wrote for transmitting live video back to Earth."
-              event="SysConf 2021"
-              cta="Watch video"
+              href="https://aws.amazon.com/certification/certified-cloud-practitioner/"
+              title="Certified Cloud Practitioner"
+              description="This credential helps organizations identify and develop talent with critical knowledge related to implementing cloud initiatives. Earning AWS Certified Cloud Practitioner validates cloud fluency and foundational AWS knowledge."
+              event="2022"
+              cta="Explore Certification"
             />
             <Appearance
-              href="#"
-              title="Lessons learned from our first product recall"
-              description="They say that if you’re not embarassed by your first version, you’re doing it wrong. Well when you’re selling DIY space shuttle kits it turns out it’s a bit more complicated."
-              event="Business of Startups 2020"
-              cta="Watch video"
+              href="https://aws.amazon.com/certification/certified-developer-associate/"
+              title="AWS Certified Developer - Associate"
+              description="AWS Certified Developer - Associate showcases knowledge and understanding of core AWS services, uses, and basic AWS architecture best practices, and proficiency in developing, deploying, and debugging cloud-based applications by using AWS."
+              event="2021"
+              cta="Explore Certification"
             />
           </SpeakingSection>
-          <SpeakingSection title="Podcasts">
+          {/* <SpeakingSection title="Podcasts">
             <Appearance
               href="#"
               title="Using design as a competitive advantage"
@@ -78,7 +78,7 @@ export default function Speaking() {
               event="How They Work Radio, September 2021"
               cta="Listen to podcast"
             />
-          </SpeakingSection>
+          </SpeakingSection> */}
         </div>
       </SimpleLayout>
     </>

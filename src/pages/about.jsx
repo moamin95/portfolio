@@ -68,13 +68,13 @@ export default function About() {
               Ever since I was young, I’ve always had an affinity towards technology. I remember staying up all night exploring all the features on my early 2000’s Sony Vaio, leaning to type on Mavis Beacon programs.
               </p>
               <p>
-              Ultimately, I graduated with a Bachelor’s in Mechanical Engineering and worked in the aerospace industry for almost two years. However, I soon came to realize that my true passion lies elsewhere.
+              Fast forward, I graduated with a Bachelor’s in Mechanical Engineering and worked in the aerospace industry for almost two years. However, I soon came to realize that my true passion lies elsewhere.
               </p>
               <p>
-              Thus, I applied to a coding bootcamp and spent the next 6 months learning how to code. I continued to grow and sharpen my skills until I landed my first gig as a front-end engineer in 2021. It was a dream come true!
+              I finally applied to a bootcamp and spent the subsequent 6 months learning code. I continued to grow and sharpen my skills until I landed my first gig as a front-end developer in 2021. It was a dream come true!
               </p>
               <p>
-              Today, I’m a full-fledged software engineer, working on applications used by tens of thousands of people.      Nowadays, I do my part to help others find a career in programming and tech. I wholeheartedly believe anyone with the drive and commitment <em>can</em>{' '} do it!
+              Today, I’m a full-fledged software engineer, working on applications used by tens of thousands of people. Now, I do my part to help others find a career in tech. I wholeheartedly believe anyone with the drive and commitment <em>can</em>{' '} do it!
               </p>
             </div>
           </div>

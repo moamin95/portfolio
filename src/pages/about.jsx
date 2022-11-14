@@ -65,7 +65,7 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-              Ever since I was young, I’ve always had an affinity towards technology. I remember staying up all night exploring all the features on my early 2000’s Sony Vaio, leaning to type on Mavis Beacon programs.
+              Ever since I was young, I’ve always had an affinity towards technology. I remember staying up all night exploring all the features on my early 2000’s Sony Vaio, learning to type on Mavis Beacon programs.
               </p>
               <p>
               Fast forward, I graduated with a Bachelor’s in Mechanical Engineering and worked in the aerospace industry for almost two years. However, I soon came to realize that my true passion lies elsewhere.

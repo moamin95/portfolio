@@ -136,7 +136,7 @@ function Resume() {
       company: 'Merkle',
       title: 'Software Developer',
       start: 'May 2021',
-      end: 'May 2022',
+      end: 'Present',
     },
     {
       company: 'Cyient - Pratt & Whitney',

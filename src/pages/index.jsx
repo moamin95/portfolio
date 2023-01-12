@@ -133,15 +133,6 @@ function Newsletter() {
 function Resume() {
   let resume = [
     {
-      company: 'CVS Health',
-      title: 'Software Engineer II',
-      start: 'May 2022',
-      end: {
-        label: 'Present',
-        dateTime: new Date().getFullYear(),
-      },
-    },
-    {
       company: 'Merkle',
       title: 'Software Developer',
       start: 'May 2021',

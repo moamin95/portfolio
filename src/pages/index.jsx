@@ -141,7 +141,7 @@ function Resume() {
     {
       company: 'Cyient - Pratt & Whitney',
       title: 'Project Engineer',
-      start: 'April 2019',
+      start: 'April 2020',
       end: 'May 2021',
     },
     {
